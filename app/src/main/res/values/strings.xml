@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HelloGitFlow</string>
+    <string name="senha">Senha</string>
+    <string name="login">login</string>
+    <string name="entrar">Entrar</string>
+    <string name="hello_world">Hello world</string>
 </resources>
