@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.v("Commit", "Realese")
+        Log.v("Commit", "outra funcionalidade")
+        Log.v("Commit", "firebase")
+        Log.v("Commit", "firebase")
     }
 }
